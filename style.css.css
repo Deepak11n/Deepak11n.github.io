@@ -1,0 +1,28 @@
+code
+{
+  color:red;
+}
+h1
+{
+  color:purple;
+  text-align:center;
+}
+.mm{
+  text-align: center;
+}
+.hi
+{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width:50%;
+}
+body
+{
+  align:center;
+  background-color:deepskyblue;
+}
+p
+{
+text-align:center;
+}
